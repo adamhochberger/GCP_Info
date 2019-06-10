@@ -6,7 +6,8 @@
 
 ### Definition
 
-    The user-manual of how to begin using a programming language and what features it supports. Many popular languages support their own documentation, and more obscure languages may have documentation but the extent of what they cover maybe less. While programming languages most commonly have documentation, packages also do as well.
+The user-manual of how to begin using a programming language and what features it supports. Many popular languages support their own documentation, and more obscure languages may have documentation but the extent of what they cover maybe less.
+While programming languages most commonly have documentation, packages also do as well.
 
 With Python, the documentation on their main website has pages for:
 
@@ -46,15 +47,15 @@ All of these sections provide links to more in-depth articles of how to implemen
 
 ### [PyPi](https://pypi.org/)
 
-    Website for sharing many kinds of packages, with different uses. Most any of these packages can be installed with the 'pip install'
+Website for sharing many kinds of packages, with different uses. Most any of these packages can be installed with the 'pip install'
 
 ### Textbook Definition
 
-    In programming, a module is a piece of software that has a specific functionality. For example, when building a ping pong game, one module would be responsible for the game logic, and another module would be responsible for drawing the game on the screen. Each module is a different file, which can be edited separately. The most common are mathematics, statistics, and web request libraries.
+In programming, a module is a piece of software that has a specific functionality. For example, when building a ping pong game, one module would be responsible for the game logic, and another module would be responsible for drawing the game on the screen. Each module is a different file, which can be edited separately. The most common are mathematics, statistics, and web request libraries.
 
 ### Simplified definition
 
-    A set of code that has been written already and can be linked to your code to provide functionality. We have previously used pygame, pandas, and matplotlib to provide easy ways to create otherwise complex operations.
+A set of code that has been written already and can be linked to your code to provide functionality. We have previously used pygame, pandas, and matplotlib to provide easy ways to create otherwise complex operations.
 
 
 
